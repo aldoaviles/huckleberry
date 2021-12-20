@@ -41,6 +41,7 @@ main p {
 
 .intro-chunk {
   padding: 24px;
+  max-width: 500px;
 }
 
 .intro-chunk p {
